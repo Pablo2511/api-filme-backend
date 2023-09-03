@@ -3,6 +3,7 @@
 Aplicação backend com Node.js, onde usuário pode cadastrar um filme, preenche com nome, descrição, notas do filme.
 
 - Permite que usuário se cadastre para poder adicionar informações do filme.
+- Após o cadastro pode ser adicionado informações sobre filme.
 
 ## Diagrama
 
