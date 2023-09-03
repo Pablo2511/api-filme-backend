@@ -4,6 +4,22 @@ Aplicação backend com Node.js, onde usuário pode cadastrar um filme, preenche
 
 - Permite que usuário se cadastre para poder adicionar informações do filme.
 
+## Diagrama
+
+<h1>
+         <img src="src/img/diagrama.png" >
+</h1>
+
+### Explicando cada tabela e seus campos:
+
+<h1>
+         <img src="src/img/tabela.png" >
+</h1>
+
+ - Valores inteiros que podem variar de 1 até o 5.
+ - Exemplos: ação, comedia, terror, medo...etc.
+
+
 ## 🔧 Tecnologias
 
  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript 
